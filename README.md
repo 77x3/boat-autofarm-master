@@ -1,0 +1,2 @@
+# boat-autofarm-master
+hax
